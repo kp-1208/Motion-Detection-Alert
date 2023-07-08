@@ -26,6 +26,6 @@ _, _ = cap.read()
 python3 motion-det2.py
 ```
 
-**Refer to https://github.com/kp-1208/GMail-API for creating your client_secrets.json that are used for generating emails using GMail API.**
+**Refer to [GMail-API repository](https://github.com/kp-1208/GMail-API) for creating your client_secrets.json that are used for generating emails using GMail API.**
 
 

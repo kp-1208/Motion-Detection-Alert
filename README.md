@@ -5,7 +5,7 @@ This project is used to send an auto-generated email on detecting a motion in su
 ```bash
 pip install -r requirements.txt
 ```
-**Replace value in "src" with your Camera IP in "motion-det2.py" file.**
+**Replace value in "src" with your Camera IP in (`motion-det2.py`) file.**
 ```python
 import threading
 import cv2  # pip install opencv-python
